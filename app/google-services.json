@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335874455069",
+    "project_id": "dndbonfire",
+    "storage_bucket": "dndbonfire.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335874455069:android:dce6e10172e7a6cde7b8f4",
+        "android_client_info": {
+          "package_name": "com.example.dndbonfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUWrnZa2-MSFOCbehGGYIP0pSzw2exoF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
